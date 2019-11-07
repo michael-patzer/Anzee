@@ -1,5 +1,5 @@
 # Anzee
 
-Experimental Mailchimp API Client
+_Experimental_ Mailchimp API Client
 
 [Mailchimp API Documentation](https://developer.mailchimp.com/documentation/mailchimp/)
